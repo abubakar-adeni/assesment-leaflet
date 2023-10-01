@@ -1,0 +1,54 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-73.987109, 40.757978]
+        },
+        "properties": {
+          "id": "bird_001",
+          "bird_name": "Blue Jay",
+          "timestamp": "2023-10-02T10:00:00Z"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-74.006, 40.7128]
+        },
+        "properties": {
+          "id": "bird_002",
+          "bird_name": "Robin",
+          "timestamp": "2023-10-02T10:15:00Z"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-73.978416, 40.748817]
+        },
+        "properties": {
+          "id": "bird_003",
+          "bird_name": "Sparrow",
+          "timestamp": "2023-10-02T10:30:00Z"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-74.005, 40.713]
+        },
+        "properties": {
+          "id": "bird_004",
+          "bird_name": "Cardinal",
+          "timestamp": "2023-10-02T10:45:00Z"
+        }
+      }
+    ]
+  }
+  

@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "name": "Pelabuhan Merak Dermaga 7",
+      "lat": -5.92371134001251,
+      "lng": 105.99370758798736,
+      "capacity": 150
+    },
+    {
+      "id": 2,
+      "name": "Pelabuhan Merak Dermaga 5",
+      "lat": -5.927174158279745,
+      "lng": 105.99431215117545,
+      "capacity": 200
+    },
+    {
+      "id": 3,
+      "name": "Dermaga 3 Pelabuhan",
+      "lat": -5.9294965133058115,
+      "lng": 105.99408284313232,
+      "capacity": 100
+    }
+  ]
+  

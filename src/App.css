@@ -1,0 +1,72 @@
+.app {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.parent-container {
+  width: 50%;
+  margin: 5vh auto;
+  position: relative;
+}
+
+.center-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: blueviolet;
+  border-radius: 15px;
+  width: 100%;
+}
+
+.center-content h1 {
+  color: white;
+}
+
+.tab-buttons {
+  position: absolute;
+  top: 65px;
+}
+
+.btn {
+  padding: 8px 14px;
+  cursor: pointer;
+  border: 2px solid black;
+  box-shadow: 2px 2px 0 0 white, 4px 4px 0 0 black;
+  transition-duration: 200ms;
+  margin-right: 10px;
+  
+}
+
+.btn:hover {
+  box-shadow: 3px 3px white, 6px 6px 0 0 black;
+  transform: translate(-2px, -2px);
+}
+
+.tab-content {
+  display: block; 
+  margin: 0 auto; 
+  text-align: center; 
+  padding: 20px;
+}
+
+.leaflet-container {
+  height: 600px;
+  width: 100%;
+}
+
+
+@media (max-width: 768px) {
+  .btn {
+    padding: 3px 3px; 
+    margin-right: 5px; 
+    font-size: 0.8rem;
+  }
+}
+
+
+
+
+
+

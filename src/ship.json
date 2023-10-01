@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "name": "Kapal Majapahit",
+      "lat": -5.925287903389584, 
+      "lng": 105.98823903470041,
+      "capacity": 400
+    },
+    {
+      "id": 2,
+      "name": "Kapal Argobromo", 
+      "lat": -5.930674827478845, 
+      "lng": 105.99165023593898,
+      "capacity": 120
+    },
+    {
+      "id": 3,
+      "name": "Kapal Sriwijaya",
+      "lat": -5.943741470982976, 
+      "lng": 105.9970847857622,
+      "capacity": 80
+    }
+  ]
+  
