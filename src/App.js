@@ -1,6 +1,6 @@
 import React from 'react';
 import TabContainer from './TabContainer';
-import './App.css'; // Import file CSS Anda di sini
+import './App.css'; 
 
 function App() {
   return (
